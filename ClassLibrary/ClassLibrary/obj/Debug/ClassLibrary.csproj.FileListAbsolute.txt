@@ -1,0 +1,6 @@
+D:\NET\Чистий#\Extension\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.dll
+D:\NET\Чистий#\Extension\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.pdb
+D:\NET\Чистий#\Extension\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+D:\NET\Чистий#\Extension\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\NET\Чистий#\Extension\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.dll
+D:\NET\Чистий#\Extension\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.pdb

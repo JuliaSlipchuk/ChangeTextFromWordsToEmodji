@@ -1,0 +1,10 @@
+D:\NET\Чистий#\Extension\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+D:\NET\Чистий#\Extension\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\NET\Чистий#\Extension\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+D:\NET\Чистий#\Extension\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+D:\NET\Чистий#\Extension\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+D:\NET\Чистий#\Extension\ConsoleApp\ConsoleApp\bin\Debug\ClassLibrary.dll
+D:\NET\Чистий#\Extension\ConsoleApp\ConsoleApp\bin\Debug\ClassLibrary.pdb
+D:\NET\Чистий#\Extension\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+D:\NET\Чистий#\Extension\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
+D:\NET\Чистий#\Extension\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
